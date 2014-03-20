@@ -2,10 +2,10 @@
 <fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmi:id="_X2ORcHSqEeOsjItha9GaIg">
   <imports xsi:type="advanced:PerspectiveStack" xmi:id="_cZ4igHStEeOsjItha9GaIg" elementId="ca.footeware.e4.application.perspectivestack"/>
   <fragments xsi:type="fragment:StringModelFragment" xmi:id="_Sl4m8HSvEeOsjItha9GaIg" featurename="children" parentElementId="ca.footeware.e4.application.perspectivestack">
-    <elements xsi:type="advanced:Perspective" xmi:id="_V58YsHSvEeOsjItha9GaIg" elementId="ca.footeware.e4.p2.tools.perspective.p2tools" label="p2 Tools" iconURI="platform:/plugin/ca.footeware.e4.p2.tools/icons/p2pconn_obj.gif">
+    <elements xsi:type="advanced:Perspective" xmi:id="_V58YsHSvEeOsjItha9GaIg" elementId="ca.footeware.e4.p2.tools.perspective.p2.tools" label="p2 Tools" iconURI="platform:/plugin/ca.footeware.e4.p2.tools.ui/icons/p2pconn_obj.gif">
       <children xsi:type="basic:PartSashContainer" xmi:id="_0EbBAHS0EeOsjItha9GaIg" elementId="ca.footeware.e4.p2.tools.partsashcontainer">
         <children xsi:type="basic:PartStack" xmi:id="_01LvkHS0EeOsjItha9GaIg" elementId="ca.footeware.e4.p2.tools.partstack.p2tools">
-          <children xsi:type="basic:Part" xmi:id="_70KGIHSvEeOsjItha9GaIg" elementId="ca.footeware.e4.p2.tools.part.p2mirror " contributionURI="bundleclass://ca.footeware.e4.p2.tools/ca.footeware.e4.p2.tools.ui.parts.P2MirrorPart" label="p2 Mirror" iconURI="platform:/plugin/ca.footeware.e4.p2.tools/icons/p2pconn_obj.gif"/>
+          <children xsi:type="basic:Part" xmi:id="_70KGIHSvEeOsjItha9GaIg" elementId="ca.footeware.e4.p2.tools.part.p2mirror " contributionURI="bundleclass://ca.footeware.e4.p2.tools.ui/ca.footeware.e4.p2.tools.ui.parts.P2MirrorPart" label="p2 Mirror" iconURI="platform:/plugin/ca.footeware.e4.p2.tools.ui/icons/p2pconn_obj.gif"/>
         </children>
       </children>
     </elements>

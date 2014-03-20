@@ -9,8 +9,8 @@
 	<packaging>pom</packaging>
 
 	<modules>
-		<module>../ca.footeware.e4.p2.tools.targetplatform</module>
 		<module>../ca.footeware.e4.p2.tools.ui</module>
+		<module>../ca.footeware.e4.p2.tools.targetplatform</module>
 		<module>../ca.footeware.e4.p2.tools.feature</module>
 		<module>../ca.footeware.e4.p2.tools.deployment</module>
 	</modules>
