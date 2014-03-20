@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/ca.footeware.e4.p2.tools.feature_0.0.0.jar" id="ca.footeware.e4.p2.tools.feature" version="0.0.0">
+      <category name="ca.footeware.e4.p2.tools"/>
+   </feature>
+   <category-def name="ca.footeware.e4.p2.tools" label="Footeware p2 Tools"/>
+</site>
